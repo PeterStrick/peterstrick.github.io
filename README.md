@@ -1,5 +1,5 @@
 # Website
-Website for hausing Help and Development Websites
+Website for housing Help and Development Websites
 
-Currently hausing: 
+Currently housing: 
 [Nitro Sniper GUI 4 Development Docs](https://peterstrick.github.io/NitroSniperGUI)
